@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Chaos Nabilera"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "별 의미는 없음"
+  bio    : "There is no point"
   links:
     - label: "Home"
       icon: "fas fa-fw fa-link"
