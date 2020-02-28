@@ -83,4 +83,11 @@ while True:
 	
 ```
 
+~~~
+...
+Correct! (99)
+Congrats! get your flag
+b1NaRy_S34rch1nG_1s_3asy_p3asy
+~~~
+
 [pwnable.kr]: https://pwnable.kr
