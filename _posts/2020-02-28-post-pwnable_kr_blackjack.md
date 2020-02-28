@@ -7,7 +7,7 @@ tags:
   - pwnable.kr
 ---
 
-[pwnable.kr][pwnable.kr] Toddler's bottle의 #10 blackjack 문제 풀이
+[pwnable.kr][pwnable.kr] Toddler's bottle의 #11 blackjack 문제 풀이
 
 처음엔 그냥 이겨야 되는건가 싶었는데 $8000까지 벌었다가 졌다...
 
