@@ -9,7 +9,9 @@ tags:
 
 [pwnable.kr][pwnable.kr] Toddler's bottle의 #10 blackjack 문제 풀이
 
-Integer overflow
+처음엔 그냥 이겨야 되는건가 싶었는데 $8000까지 벌었다가 졌다...
+
+pwnable이니까 뭔가 다른 방법이 있겠지 싶어 이거저거 해보다 결국엔 Integer overflow 문제라는걸 발견했다.
 
 ~~~
 Enter Bet: $100000000
