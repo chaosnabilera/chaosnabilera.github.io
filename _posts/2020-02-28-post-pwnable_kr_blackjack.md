@@ -2,7 +2,7 @@
 title: "pwnable.kr - Toddler's bottle #11 blackjack"
 date: 2020-02-28
 categories:
-  - blog
+  - Information Security
 tags:
   - pwnable.kr
 ---
@@ -25,9 +25,11 @@ Please Enter H to Hit or S to Stay.
 H
 ... 
 
-YaY_I_AM_A_MILLIONARE_LOL
+<tag output>
 
 Cash: $1410065907
 ~~~
 
 [pwnable.kr]: https://pwnable.kr
+
+<!-- YaY_I_AM_A_MILLIONARE_LOL -->

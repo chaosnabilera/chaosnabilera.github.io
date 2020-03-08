@@ -2,7 +2,7 @@
 title: "pwnable.kr - Toddler's bottle #12 lotto"
 date: 2020-02-28
 categories:
-  - blog
+  - Information Security
 tags:
   - pwnable.kr
 ---
@@ -127,8 +127,10 @@ int main(int argc, char* argv[]){
 1
 Submit your 6 lotto bytes : !!!!!!
 Lotto Start!
-sorry mom... I FORGOT to check duplicate numbers... :(
+<tag output>
 ...
 ~~~
 
 [pwnable.kr]: https://pwnable.kr
+
+<!-- sorry mom... I FORGOT to check duplicate numbers... :( -->

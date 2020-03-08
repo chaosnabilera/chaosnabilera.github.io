@@ -2,7 +2,7 @@
 title: "pwnable.kr - Toddler's bottle #10 coin1"
 date: 2020-02-28
 categories:
-  - blog
+  - Information Security
 tags:
   - pwnable.kr
 ---
@@ -87,7 +87,9 @@ while True:
 ...
 Correct! (99)
 Congrats! get your flag
-b1NaRy_S34rch1nG_1s_3asy_p3asy
+<tag output>
 ~~~
 
 [pwnable.kr]: https://pwnable.kr
+
+<!-- b1NaRy_S34rch1nG_1s_3asy_p3asy -->
